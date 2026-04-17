@@ -4,7 +4,8 @@ longform:
   title: Another Memory
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Love
   ignoredFiles:
     - Love
 ---
